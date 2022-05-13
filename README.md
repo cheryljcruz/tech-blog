@@ -2,7 +2,7 @@
 
 ## Description
 
-- This full stack application allows for tech enthusiasts and developers to create an account and login to an online community that hosts the ability to publish articles, blog posts, and comments for all things tech! 
+- This full stack application allows for tech enthusiasts and developers to create an account and login to an online community that hosts the ability to publish articles, blog posts, and comments for all things tech! Protective features have been included in the Tech Blog to keep users data safe, and sessions temporary. 
 
 ### Built With:
 
@@ -15,3 +15,9 @@
 - Dotenv
 - Express-session 
 - Bcrypt
+
+## Deployed Application
+
+[!image of webpage]()
+
+[Deployed Webpage](https://quiet-refuge-87724.herokuapp.com/)
