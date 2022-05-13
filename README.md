@@ -18,6 +18,8 @@
 
 ## Deployed Application
 
-[!image of webpage](https://github.com/cheryljcruz/tech-blog/blob/main/public/stylesheets/quiet-refuge-87724.herokuapp.com_.png)
+![image of webpage](https://github.com/cheryljcruz/tech-blog/blob/main/public/stylesheets/images/quiet-refuge-87724.herokuapp.com_.png)
 
 [Deployed Webpage](https://quiet-refuge-87724.herokuapp.com/)
+
+
