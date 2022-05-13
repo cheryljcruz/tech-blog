@@ -8,9 +8,12 @@ html {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  color: #333;
+  color: black;
 }
 
+body {
+  background-color: #ffeeed;
+}
 a {
   text-decoration: none;
   color: #225ca3;
@@ -19,11 +22,12 @@ a {
 }
 
 a:hover {
-  color: #3486eb;
+  color: #38a8c5;
 }
 
-button {
-  background-color: #225ca3;
+button,
+.button {
+  background-color: #38a8c5;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +37,8 @@ button {
   border-radius: 5px;
 }
 
-button:hover {
+button,
+.button:hover {
   background-color: #3486eb;
 }
 

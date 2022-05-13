@@ -13,7 +13,7 @@
 
   <body>
     <div class="wrapper">
-      <header>
+      <header class="hero is-success">
         <h1>
           <a href="/" class="title">Tech Blog</a>
         </h1>
@@ -22,7 +22,7 @@
             <a href="/dashboard" class="button">Dashboard</a>
             <button id="logout" class="button">Logout</button>
           {{else}}
-            <a href="/login">Login</a>
+            <a href="/login" class="button">Login</a>
           {{/if}}
         </nav>
       </header>
@@ -30,7 +30,9 @@
         {{{body}}}
       </main>
       <footer>
-        Made with Love
+        <div class="content is-small">
+          Made with Love
+        </div>
       </footer>
     </div>
 
